@@ -1,3 +1,2 @@
 "Novo branch release" 
-#7610
-#6701
+#6710
